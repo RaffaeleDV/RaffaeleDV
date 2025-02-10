@@ -1,7 +1,7 @@
 
 
 
-<h1 align="left">Hi 👋! My name is Raffaele and I'm a newly graduated 🎓 in Computer Science 💻 (University of Salerno)</h2>
+<h1 align="left">Hi 👋! My name is Raffaele</h2>
 
 ## #OpenToWork 👨‍💻
 
